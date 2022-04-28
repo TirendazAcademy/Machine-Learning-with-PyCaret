@@ -1,4 +1,4 @@
-# Hello Guys, Welcome Tirendaz Academy 😄
+# Hello Guys, Welcome Machine Learning with PyCaret 😄
 
 ![](https://img.freepik.com/free-photo/excited-man-black-denim-jacket-chilling-with-girlfriend-outdoor-portrait-happy-couple-exploring-city_197531-12259.jpg?t=st=1651163021~exp=1651163621~hmac=200667200c07601914be24eac79ce6d812a89192c9be044965f6df69b75e3456&w=1060)
 
