@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/pycaret/pycaret/master/docs/images/logo.png)
+![](https://github.com/TirendazAcademy/Machine-Learning-with-PyCaret/blob/main/Images/logo-tirendaz.png)
 
 [![](https://img.shields.io/badge/Python-blue?&style=plastic&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Pycaret-navy?style=plastic&logo=pycaret&logoColor=white)]()
