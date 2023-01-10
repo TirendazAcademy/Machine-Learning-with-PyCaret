@@ -1,14 +1,25 @@
-# Hello Guys, Welcome to Machine Learning with PyCaret 😄
+![](https://raw.githubusercontent.com/pycaret/pycaret/master/docs/images/logo.png)
 
-![](https://img.freepik.com/free-photo/excited-man-black-denim-jacket-chilling-with-girlfriend-outdoor-portrait-happy-couple-exploring-city_197531-12259.jpg?t=st=1651163021~exp=1651163621~hmac=200667200c07601914be24eac79ce6d812a89192c9be044965f6df69b75e3456&w=1060)
+[![](https://img.shields.io/badge/Python-blue?&style=plastic&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Pycaret-navy?style=plastic&logo=pycaret&logoColor=white)]()
+[![](https://img.shields.io/badge/DataScience-green?&style=plastic&logo=datascience&logoColor=white)]()
+[![](https://img.shields.io/badge/MachineLearning-FF6E31?&style=plastic&logo=machinelearning&logoColor=white)]()
 
-## In this repository, you can find the notebooks and datasets for machine learning tutorials with PyCaret.
+[*PyCaret*](https://pycaret.org/) is an open-source, low-code machine learning library in Python that automates machine learning workflows. PyCaret empowers anyone to build low-code, powerful, end-to-end machine learning solutions.
 
-## YouTube Videos 🎬  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+PyCaret is a low-code library that can be used to replace hundreds of lines of code with just a few lines. This allows you to perform machine learning projects quickly and efficiently. It is basically a Python wrapper surrounding various machine learning libraries and frameworks like scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Optuna, Hyperopt, Ray, and a few more.
 
-- ### [Machine Learning with PyCaret](https://youtu.be/LEJlW6STeB0)
-- ### [Classification with PyCaret](https://youtu.be/rIf4TNtMTtk)
+You can install PyCaret with Python's pip package manager: `pip install pycaret`
 
+This repository contains PyCaret tutorials with the notebooks and datasets.
 
-## Happy learning ... ✌️ 
+## YouTube Tutorials [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLbQRubTta6fcWFyjKtDyDPTwxC6t1HMEn)
 
+- [Machine Learning with PyCaret](https://youtu.be/LEJlW6STeB0)
+- [Classification with PyCaret](https://youtu.be/rIf4TNtMTtk)
+- [Regression with PyCaret](https://youtu.be/nvZ08g7tHhE)
+- [Clustering with PyCaret](https://youtu.be/wOzeFurDfQ0)
+
+📌 Happy learning 😀 
+
+🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy)
